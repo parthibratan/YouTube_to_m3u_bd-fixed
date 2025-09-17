@@ -1,7 +1,38 @@
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 1016k    0 1016k    0     0  1079k      0 --:--:-- --:--:-- --:--:-- 1080k
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 1039k    0 1039k    0     0   996k      0 --:--:--  0:00:01 --:--:--  995k100 1061k    0 1061k    0     0  1014k      0 --:--:--  0:00:01 --:--:-- 1014k
-rm: cannot remove 'watch*': No such file or directory
+ERROR: [generic] '<tvg-id>' is not a valid URL
+Error for ~~ FORMAT: <channel name>: ERROR: [generic] '<tvg-id>' is not a valid URL
+ERROR: [generic] '' is not a valid URL
+Error for Jamuna TV: ERROR: [generic] '' is not a valid URL
+ERROR: [generic] '' is not a valid URL
+Error for Channel i: ERROR: [generic] '' is not a valid URL
+ERROR: [generic] '' is not a valid URL
+Error for NTV: ERROR: [generic] '' is not a valid URL
+ERROR: [generic] '' is not a valid URL
+Error for Somoy TV: ERROR: [generic] '' is not a valid URL
+ERROR: [generic] '' is not a valid URL
+Error for ATN News: ERROR: [generic] '' is not a valid URL
+ERROR: [generic] '' is not a valid URL
+Error for Independent TV: ERROR: [generic] '' is not a valid URL
+ERROR: [generic] '' is not a valid URL
+Error for Rtv: ERROR: [generic] '' is not a valid URL
+ERROR: [generic] '' is not a valid URL
+Error for DBC News: ERROR: [generic] '' is not a valid URL
+ERROR: [generic] '' is not a valid URL
+Error for Ekhon TV: ERROR: [generic] '' is not a valid URL
+ERROR: [generic] '' is not a valid URL
+Error for Channel 24: ERROR: [generic] '' is not a valid URL
+ERROR: [generic] '' is not a valid URL
+Error for News24: ERROR: [generic] '' is not a valid URL
+ERROR: [generic] '' is not a valid URL
+Error for Desh TV: ERROR: [generic] '' is not a valid URL
+ERROR: [generic] '' is not a valid URL
+Error for Rtv Music: ERROR: [generic] '' is not a valid URL
+ERROR: [generic] '' is not a valid URL
+Error for Arirang TV: ERROR: [generic] '' is not a valid URL
+ERROR: [generic] '' is not a valid URL
+Error for CNA: ERROR: [generic] '' is not a valid URL
+ERROR: [generic] '' is not a valid URL
+Error for LiveNOW from FOX: ERROR: [generic] '' is not a valid URL
+ERROR: [generic] '' is not a valid URL
+Error for Sky News: ERROR: [generic] '' is not a valid URL
+ERROR: [generic] '' is not a valid URL
+Error for FOX Weather: ERROR: [generic] '' is not a valid URL
