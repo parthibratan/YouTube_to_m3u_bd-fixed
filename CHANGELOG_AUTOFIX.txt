@@ -1,0 +1,20 @@
+Changelog - automated fixes applied
+
+1. Workflow (.github/workflows/m3u_Generator.yml)
+   - Upgraded checkout to actions/checkout@v3 and added explicit permissions: contents: write
+   - Added setup-python step and safer commit/push logic that skips commit if no changes.
+
+2. autorun.sh
+   - Hardened script: sets strict bash options, installs requirements.txt when present, captures stderr to last_run_error.log for diagnostics.
+
+3. requirements.txt
+   - Added default requirements: requests, yt-dlp, beautifulsoup4
+
+4. scripts/youtube_m3ugrabber.py
+   - Backed up original file and added a yt-dlp fallback wrapper that attempts to extract HLS/m3u8 stream URLs if present.
+   - NOTE: the fallback requires yt-dlp to be installed (listed in requirements.txt).
+
+Limitations:
+- This environment cannot run network installs or call out to YouTube, so I could not fully run the workflow or validate live extraction.
+- I prepared a patch and a fixed ZIP you can run locally or push to GitHub. See instructions in the README.
+

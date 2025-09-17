@@ -1,0 +1,16 @@
+# Patches applied by assistant
+
+See CHANGELOG_AUTOFIX.txt for a summary of changes.
+
+To test locally:
+1. Unzip this repo and run:
+   python3 -m pip install -r requirements.txt
+   chmod +x autorun.sh
+   ./autorun.sh
+
+To apply on GitHub:
+- Commit the changes to a branch and open a PR.
+- Or replace files directly on the main branch (if you are comfortable).
+
+If you want me to create a PR automatically, provide a GitHub personal access token with repo scope in a secure way and tell me which branch name to use. I can instead give you a patch file to apply.
+
